@@ -2,35 +2,7 @@
 
 namespace Homework_17._06._2024_Interfaces_Delegates
 {
-    //class GroupEnumerator : IEnumerator
-    //{
-    //    public List<Student> students;
-    //    public int position = -1;
-
-    //    public GroupEnumerator(List<Student> students)
-    //    {
-    //        this.students = students;
-    //    }
-
-    //    object IEnumerator.Current
-    //    {
-    //        get
-    //        {
-    //            return students[position];
-    //        }
-    //    }
-
-    //    public bool MoveNext()
-    //    {
-    //        position++;
-    //        return position < students.Count;
-    //    }
-
-    //    public void Reset()
-    //    {
-    //        position = -1;
-    //    }
-    //}
+    
     internal class Program
     {
         static void Main(string[] args)
